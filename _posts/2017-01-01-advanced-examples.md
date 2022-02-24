@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Open Refine"
 mathjax: true
 layout: post
 categories: media
