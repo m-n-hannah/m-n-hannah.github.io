@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: "Home"
+title: "About"
 ---
 
 ## Fulbright Specialist Workshops 
