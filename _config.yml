@@ -6,6 +6,11 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+## Fulbright Specialist Workshops 
+### Series of Digital Humanities Workshops Offered by Matthew Hannah in March 2022 at Al Akhawayn University and University Abdelmalek Essaadi in the Kingdom of Morocco. This GitHub site is a central hub for code, data, and instructions for these workshops.
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/a/af/Picture_of_Morocco.jpg)
+
 # Layout
 
 show_excerpts: false        # show article excerpts on the home page
