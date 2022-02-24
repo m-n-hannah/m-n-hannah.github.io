@@ -3,11 +3,6 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
----
-title: "OpenRefine"
-permalink: "/refine/"
-layout: page
----
 
 ## Installation
 
