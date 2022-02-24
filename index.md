@@ -2,4 +2,4 @@
 layout: pages
 title: "About"
 ---
-Sample
+Home
