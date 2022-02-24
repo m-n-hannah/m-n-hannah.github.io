@@ -4,6 +4,9 @@ mathjax: true
 layout: post
 categories: workshops, digital humanities
 ---
+
+![Image](https://labinoteca.files.wordpress.com/2017/01/openrefine-bdu-logo.png)
+
 Often when working in DH, you’ll need to begin collecting materials into spreadsheets to work with in various tools. Many of the tools we’ll be using will require you to collect data into spreadsheets to use, and when you complete your data visualization project, you’ll need to collect data. Open Refine allows you to work with messy data, data that isn’t perfect.
 1.	Find where you extracted your Open Refine folder. Click on the folder, and open the application. Open Refine is a web server that you download and access via a web browser. This black loading screen is simply the back end of Open Refine.
 2.	Choose Files. Note the different file types Open Refine will accept. Notice you can use Google Data documents too such as Google Sheets. You can also connect to a database if you have connection information.
