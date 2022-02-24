@@ -1,5 +1,5 @@
 ---
 layout: pages
-title: "About"
+title: About
 ---
 Home
