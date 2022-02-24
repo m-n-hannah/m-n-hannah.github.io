@@ -1,0 +1,6 @@
+---
+title:  "Zotero and VosViewer"
+mathjax: true
+layout: post
+categories: workshops, digital humanities
+---
