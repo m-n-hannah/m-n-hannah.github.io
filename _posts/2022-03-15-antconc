@@ -1,0 +1,23 @@
+---
+title:  "Antconc"
+mathjax: true
+layout: post
+categories: workshops, digital humanities
+---
+Software:AntConc. Unzip the download if necessary, and launch the application. Screen shots below may vary slightly from the version you have (and by operationg system, of course), but the procedures are more or less the same across platforms and recent versions of AntConc. This tutorial is written with a (much older) version of AntConc in mind, as I find it easier to use in an introductory context. You are welcome to use the most recent version, but if you wish to follow along with the screenshots provided, you can download the version used here, version 3.2.4.
+Sample Corpus: Download the zip file of movie reviews.
+There are 7 tabs across the top: 
+Concordance: This will show you what’s known as a Keyword in Context view (abbreviated KWIC, more on this in a minute), using the search bar below it. 
+Concordance Plot: This will show you a very simple visualization of your KWIC search, where each instance will be represented as a little black line from beginning to end of each file containing the search term. 
+File View: This will show you a full file view for larger context of a result. 
+Clusters: This view shows you words which very frequently appear together. 
+Collocates: Clusters show us words which _definitely _appear together in a corpus; collocates show words which are statistically likely to appear together. 
+Word list: All the words in your corpus. 
+Keyword List: This will show comparisons between two corpora.
+1.	File > Open Directory
+2.	Navigate to corpus folder
+3.	Start with a basic search. Key words in context will search for the words either to the left, right, or both of the search term.
+4.	Global Settings > Wildcard Settings
+5.	Try searching using |
+6.	Try searching for collocates, words associated with our search term
+7.	Try comparing corpora. Settings > Tool Preferences > Keyword List under Reference Corpus. Use raw files checked. Now add directory with reference corpus. Keyness: this is the frequency of a word in the text when compared with its frequency in a reference corpus, “such that the statistical probability as computed by an appropriate procedure is smaller than or equal to a p value specified by the user.” – taken from here.) For those interested in the statistical details, see the section on keyness on p7 of Laurence Anthony’s readme file.
