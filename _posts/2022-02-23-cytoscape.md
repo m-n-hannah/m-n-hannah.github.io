@@ -4,6 +4,8 @@ mathjax: true
 layout: post
 categories: workshops, digital humanities
 ---
+![Image](https://www.thesmbguide.com/images/cytoscape-js-1024x512-20190225.png)
+
 Cytoscape
 To open a file for a new network:
 File > Import > Network from File > Select File
