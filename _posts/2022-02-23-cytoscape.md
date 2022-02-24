@@ -5,13 +5,13 @@ layout: post
 categories: workshops, digital humanities
 ---
 Cytoscape
-•	To open a file for a new network:
-•	File > Import > Network from File > Select File
-•	Will load a preview of data. Includes two sheets: nodes and relations.
-•	Cytoscape will take your spreadsheet and try to organize it.
-•	Selecting “advanced” will allow you to select the default relationship.
-•	You can edit a column by selecting it and choose type of column.
-•	Click “OK” when done.
+To open a file for a new network:
+File > Import > Network from File > Select File
+Will load a preview of data. Includes two sheets: nodes and relations.
+Cytoscape will take your spreadsheet and try to organize it.
+Selecting “advanced” will allow you to select the default relationship.
+You can edit a column by selecting it and choose type of column.
+Click “OK” when done.
 
 Network Style
 You can also select a style template from drop down at top.
