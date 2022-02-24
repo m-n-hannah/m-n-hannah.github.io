@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "About"
+title: "Home"
 ---
 Home page for my workshops
