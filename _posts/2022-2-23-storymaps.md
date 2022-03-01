@@ -37,3 +37,15 @@ Esri's Story Maps is one of the most fun tools! You can quickly and easily creat
 9. Or an image?
 
 ![sm7](https://user-images.githubusercontent.com/22083340/156239324-16d62688-bda5-4486-a52f-95ca6a247507.png)
+
+10. You add various content blocks that can be arranged in various ways. 
+
+A Note on Maps! One of the coolest aspects of Story Maps is the possibility of embedding an interactive map into your project. This takes a few extra steps but is worth it! If you don't already have maps with data, saved in ArcGIS, you will want to create an express map:
+
+![sm8](https://user-images.githubusercontent.com/22083340/156240476-d19400f7-149c-477d-82df-7b6baf813af8.png)
+
+You can either work in ArcGIS Online and save your maps which will make them available to you in Story Maps OR you can create a map from scratch by adding locations through the search.
+
+![sm9](https://user-images.githubusercontent.com/22083340/156240843-7107d65a-fbc1-457a-8af5-25c290e59ca4.png)
+
+
