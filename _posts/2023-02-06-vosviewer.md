@@ -36,3 +36,25 @@ PART 1: ZOTERO
 * Then select RIS.
 
 ![vos5](https://user-images.githubusercontent.com/22083340/156246840-467ca69e-4841-4b31-81c1-841ab42abce8.png)
+
+* You will need to select the folder on your computer where the RIS file is located and select it.
+
+![vos6](https://user-images.githubusercontent.com/22083340/156247700-89408f16-f7e8-4f9d-81a4-c74f305d4ab6.png)
+
+* Then select your analysis. Co-authors is useful for a collection with multiple authors publishing together to measure the biggest collaborators. Keyword co-appearance is useful for measuring the linkages between keywords i.e. keywords that appear together often.
+
+![vos7](https://user-images.githubusercontent.com/22083340/156247923-aad5550e-a879-45ed-a9b5-ec68e9b3515e.png)
+
+* Once done, you should see a network of connections between keywords or authors that appear together. VosViewer will automatically assign these nodes to clusters based on their mutual linkages, with each cluster receiving its own color.
+
+![vos8](https://user-images.githubusercontent.com/22083340/156248206-8ce04fed-ab7b-4bba-a6f6-6e4d5aea5b4d.png)
+
+* You can also look at a heatmap of the network or a temporal map, which shows the data based on publication year. Select the Overlay Visualization (time) or Density Visualization (heat map) to see these networks.
+
+![vos9](https://user-images.githubusercontent.com/22083340/156248699-287e23a2-fb58-49b3-a0b3-989dd39d6f5f.png)
+
+* You can also run some basic statistical analysis and view the items in your collection as VosViewer assigned them to clusters by selecting the side tabs.
+
+![vos10](https://user-images.githubusercontent.com/22083340/156248915-078e571e-8d76-452a-9715-9fe21dc465e7.png)
+
+* Colors and shapes can be customized in the visualization window along the right side of the screen. Once you're happy with your network visualization you can either take a screenshot or save the files used to create the visualization to be used next time you open VosViewer.
