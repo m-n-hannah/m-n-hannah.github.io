@@ -38,6 +38,8 @@ FACETS
 
 10.	Facet 2: Home Destination. Cluster and choose. Select what you’d like to change each item to and check the boxes for merge. We’ve now edited 14 cells at once!
 
+![openrefine11](https://user-images.githubusercontent.com/22083340/156194521-e42030a3-9c15-4e0d-8f41-7e992add2e13.png)
+
 11.	Edit individual locations in facet box. Change ?Havana to Havana. Now edit one MA to be Massacussetts and one to be Massachusetts.
 
 ![openrefine5](https://user-images.githubusercontent.com/22083340/156193082-0def63dc-51b2-40d9-baf9-05c3518b9453.png)
