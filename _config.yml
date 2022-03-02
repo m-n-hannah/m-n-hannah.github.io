@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "about.md", title: "About"}
   - {url: "https://github.com/m-n-hannah/m-n-hannah.github.io/files/8169574/Hannah.Vitae.pdf", title: "CV"}
   - {file: "workshops.html", title: "Workshops"}
+  - {url: "https://github.com/m-n-hannah/fulbright.git", title: "Data"}
   
 
 
