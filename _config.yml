@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "about.md", title: "About"}
-  - {url: "https://purdue.academia.edu/MatthewHannah/CurriculumVitae", title: "CV"}
+  - {url: "[](https://github.com/m-n-hannah/m-n-hannah.github.io/files/8169574/Hannah.Vitae.pdf)", title: "CV"}
   - {file: "workshops.html", title: "Workshops"}
   
 
