@@ -5,7 +5,7 @@ title: ""
 ## About the Instructor
 
 
-هتاف للترحي
+السلام عليكم
  
 
 Matthew N. Hannah is an Assistant Professor of Digital Humanities at Purdue University, in the School of Information Studies. He received his PhD in English at the University of Oregon and completed a postdoctoral fellowship at the University of Iowa's Obermann Center for Advanced Studies. He teaches digital humanities and media studies at [Purdue University](https://www.lib.purdue.edu/people/hannah8), and his research focuses on conspiracy theories, information literacy, bibliometrics, and critical infrastructure studies. 
