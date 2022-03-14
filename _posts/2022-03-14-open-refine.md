@@ -7,6 +7,8 @@ categories: workshops, digital humanities
 
 ![Image](https://labinoteca.files.wordpress.com/2017/01/openrefine-bdu-logo.png)
 
+[Download Open Refine Here](https://openrefine.org/download.html)
+
 Often when working in DH, you’ll need to begin collecting materials into spreadsheets to work with in various tools. Many of the tools we’ll be using will require you to collect data into spreadsheets to use and such data can contain errors or mistakes. Open Refine allows you to work with messy data at scale, data that isn’t perfect.
 
 1.	Find where you extracted your Open Refine folder. Click on the folder, and open the application. Open Refine is a web server that you download and access via a web browser. This black loading screen is simply the back end of Open Refine.
@@ -32,6 +34,7 @@ Often when working in DH, you’ll need to begin collecting materials into sprea
 ![openrefine3](https://user-images.githubusercontent.com/22083340/156192668-593c966e-86df-4d91-9d08-70be14af3a5b.png)
 
 FACETS 
+
 9.	Facet 1: Name. Sort names by count.
 
 ![openrefine4](https://user-images.githubusercontent.com/22083340/156192885-fe5d82e3-7aa1-4930-b703-9a754e91fc25.png)
@@ -59,6 +62,7 @@ TRANSFORMS: Cells and Columns
 15.	We can also edit columns, including renaming them and moving them. Go ahead and remove the embarked column as we don’t need it. 
 
 KEY/VALUE PAIRS
+
 16.	Now let’s combine columns using key/value pairs.
 
 17.	Click on sex. Click on transpose and choose “Columnize by Key/Value Columns.” It will ask you to choose the key column by which the value column will be organized. Choose sex as your key and survived as your value to determine if women and children really are first off the boat. Sex is now spilt into two columns, and shows the data for survived or not.
@@ -67,8 +71,7 @@ KEY/VALUE PAIRS
 
 18.	Now click each column, edit cells, and replace 0, 1 with died, survived.
 
-19.	USING GREL TO CHANGE DATA
-USING GREL
+USING GREL TO CHANGE DATA
 
 20.	We can also use Open Refine’s Regular Expression interface to make large scale changes. Open Refine operates using a language called GREL. GREL = Global Regular Expression Language.
 
@@ -83,6 +86,7 @@ USING GREL
 23.	[A guide to using GREL.](https://docs.openrefine.org/manual/grelfunctions)
 
 EXPORTING
+
 24.	Open Refine will save your data in your particular instance of it so you’ll want to make sure you remember where you saved it.
 
 25.	Once you’ve got your data ready, you can export it. 
