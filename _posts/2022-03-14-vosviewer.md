@@ -12,7 +12,7 @@ VosViewer is a tool for conducting bibliometric analysis. Bibliometrics is a fie
 Note: I have provided a sample dataset so you don't need to complete the Zotero step if you don't want to...
 
 PART 1: ZOTERO
-* Download Zotero and the Chrome Extension.
+* Download [Zotero](https://www.zotero.org/download/) and the Chrome Extension.
 
 ![vos1](https://user-images.githubusercontent.com/22083340/156243570-6da9f0c8-1ee0-4612-b217-ebe85a1e75c7.png)
 
@@ -28,7 +28,7 @@ PART 1: ZOTERO
 * Download the RIS file. You can then upload it into VosViewer.
 
 * PART 2: VOSVIEWER
-* You can either download VosViewer or use the web based version [here](https://www.vosviewer.com/).
+* You can either download [VosViewer](https://www.vosviewer.com/download) or use the web based version [here](https://www.vosviewer.com/).
 * Click Create and Select your Data Source.
 
 ![vos4](https://user-images.githubusercontent.com/22083340/156246651-6fc44e29-2738-4333-b859-01dea2ac672d.png)
