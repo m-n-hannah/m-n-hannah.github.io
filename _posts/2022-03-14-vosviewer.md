@@ -62,13 +62,33 @@ PART 1: ZOTERO
 
 * PART 3: Using Web of Science or Scopus
 * Navigate to a database your library has access and that VosViewer can access: Scopus, Web of Science, Dimensions, Lens, or PubMed.
+
+![image](https://user-images.githubusercontent.com/22083340/158799663-8ad55732-f007-4b9e-8687-02dd3d8b9c3c.png)
+
 * Search for articles in that database.
+
 * Select the articles you want and select export.
+
+![image](https://user-images.githubusercontent.com/22083340/158799813-03f092bc-c37c-47eb-9c16-2dd4cb086561.png)
+
 * Export as plain text with Full Record and Cited References.
-* Select "Create a Map Based on Bibliographic Data."
+
+![image](https://user-images.githubusercontent.com/22083340/158799892-5b4c866b-1b8e-46c9-9047-c8e85560e2c2.png)
+
+* Select "Create a Map Based on Bibliographic Data" in VosViewer.
+
+![image](https://user-images.githubusercontent.com/22083340/158799985-7c8c3238-65b4-47f9-b08e-9a82d46d4951.png)
+
 * Select "Read Data from Bibliographic Database File."
+
+![image](https://user-images.githubusercontent.com/22083340/158800084-1cfb5b55-f74b-493b-8846-0970ad3fc979.png)
+
 * Navigate to your text file.
-* You should now have access to the database's data for citation and co-citation analysis in addition to the other metrics.
+
+* You should now have access to the database's data for citation and co-citation analysis in addition to the other metrics based on the full reference.
+
+![image](https://user-images.githubusercontent.com/22083340/158800201-ff074719-f63d-454d-841c-16a098300f36.png)
+
 
 
 
