@@ -89,6 +89,8 @@ PART 1: ZOTERO
 
 ![image](https://user-images.githubusercontent.com/22083340/158800201-ff074719-f63d-454d-841c-16a098300f36.png)
 
+* When you are done modifying your network, you can export it as VosViewer network and map files, which can be uploaded back into VosViewer. You can also take a screenshot of your network diagram:
+
 
 
 
