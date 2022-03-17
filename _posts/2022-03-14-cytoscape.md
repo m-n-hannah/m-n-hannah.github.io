@@ -6,7 +6,10 @@ categories: workshops, digital humanities
 ---
 ![Image of Cytoscape logo, an orange network visualization](https://www.thesmbguide.com/images/cytoscape-js-1024x512-20190225.png)
 
-Cytoscape
+Cytoscape is a useful tool for doing network analysis. You can read more about the various operations available in Cytoscape [here](http://manual.cytoscape.org/en/stable/index.html).
+
+[Download Cytoscape](https://cytoscape.org/download.html)
+
 To open a file for a new network:
 File > Import > Network from File > Select File
 
