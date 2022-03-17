@@ -17,11 +17,12 @@ PART 1: ZOTERO
 ![vos1](https://user-images.githubusercontent.com/22083340/156243570-6da9f0c8-1ee0-4612-b217-ebe85a1e75c7.png)
 
 * Once you've downloaded the Zotero app and the Chrome extension, you can easily save the citation of any object to your Zotero Library. You will want to open Zotero, create a folder, and leave it open.
+
 * Navigate to your library page and select a book or article. You can save the metadata to your Zotero by clicking the extension button in the top right corner of your browser.
 
 ![vos2](https://user-images.githubusercontent.com/22083340/156244019-6a104a92-1e05-458b-8359-eec8bfdffd5c.png)
 
-* Once youo've saved a few items to your library, select all and click export. You'll want to export as RIS file.
+* Once you've saved a few items to your library, select all and click export. You'll want to export as RIS file.
 
 ![vos3](https://user-images.githubusercontent.com/22083340/156244483-cf2f681d-5604-45ba-a9a2-0f621bdc6790.png)
 
