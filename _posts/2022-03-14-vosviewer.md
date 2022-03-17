@@ -59,3 +59,17 @@ PART 1: ZOTERO
 ![vos10](https://user-images.githubusercontent.com/22083340/156248915-078e571e-8d76-452a-9715-9fe21dc465e7.png)
 
 * Colors and shapes can be customized in the visualization window along the right side of the screen. Once you're happy with your network visualization you can either take a screenshot or save the files used to create the visualization to be used next time you open VosViewer.
+
+* PART 3: Using Web of Science or Scopus
+* Navigate to a database your library has access and that VosViewer can access: Scopus, Web of Science, Dimensions, Lens, or PubMed.
+* Search for articles in that database.
+* Select the articles you want and select export.
+* Export as plain text with Full Record and Cited References.
+* Select "Create a Map Based on Bibliographic Data."
+* Select "Read Data from Bibliographic Database File."
+* Navigate to your text file.
+* You should now have access to the database's data for citation and co-citation analysis in addition to the other metrics.
+
+
+
+
